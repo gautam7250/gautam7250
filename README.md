@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gautam7250
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning  Data Science and Tableau and SQL
+- 🌱 I’m currently learning  Data Science and Tableau and POWER BI and SQL and MYSQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
